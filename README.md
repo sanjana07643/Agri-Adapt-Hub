@@ -1,2 +1,6 @@
 # Agri-Adapt-Hub
-This is my hackethon project login page for demo.
+Today i completed my Agri Adapt Hub website page for my first hackethon.
+
+#technology uses
+HTML 
+CSS
